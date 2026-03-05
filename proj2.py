@@ -1,10 +1,3 @@
-
-# EEE 591 - Project 2
-# Name: Sakshi Lathi
-# Assignment: Project 2
-# Date: March 4, 2026
-# AI Citation: 
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
