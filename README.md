@@ -1,7 +1,5 @@
 # Sonar Mine vs Rock Classification using PCA + MLPClassifier
 
-EEE 591 Machine Learning — Arizona State University
-
 Binary classification of sonar returns as either mines or rocks using dimensionality reduction (PCA) followed by a neural network (MLPClassifier). The project sweeps PCA from 1 to 60 principal components to identify the dimensionality that maximizes test accuracy.
 
 ---
